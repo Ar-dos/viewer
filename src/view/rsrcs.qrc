@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/MontserratAlternates-Regular.ttf</file>
+        <file>resources/Cuprum-Regular.ttf</file>
+        <file>resources/Nunito-Regular.ttf</file>
+        <file>resources/0.png</file>
+    </qresource>
+</RCC>
